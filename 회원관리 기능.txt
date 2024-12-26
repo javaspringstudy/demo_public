@@ -1,2 +1,4 @@
+회원 관리 기능 코드 수정(board_modify 브랜치)
 회원관리 기능 완료~!
 로그인 관련 버그 수정(board_modify 브랜치에서 작업)
+회원가입 관련 코드 수정(board_modify 브랜치)
